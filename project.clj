@@ -1,5 +1,5 @@
 (defproject cljs-eaf30 "0.0.1"
-  :description "A parser and spec for EAF 3.0 files used by the linguistic annotation application ELAN"
+  :description "Delete me"
   :url "https://github.com/lgessler/cljs-eaf30.git"
   :license {:name "MIT"}
   :dependencies [[org.clojure/clojure "1.8.0"]
