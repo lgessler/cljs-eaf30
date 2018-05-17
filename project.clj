@@ -1,4 +1,4 @@
-(defproject cljs-eaf30 "0.0.1"
+(defproject cljs-eaf30 "0.0.2"
   :description "Delete me"
   :url "https://github.com/lgessler/cljs-eaf30.git"
   :license {:name "MIT"}
